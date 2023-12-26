@@ -28,9 +28,9 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="6Tk-OE-BBY" secondAttribute="trailing" id="96n-j5-5hi"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="trailing" secondItem="Ze5-6b-2t3" secondAttribute="trailing" id="96n-j5-5hi"/>
                             <constraint firstAttribute="bottom" secondItem="fEb-pf-Q9X" secondAttribute="bottom" id="XcX-KF-lOu"/>
-                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="jpo-1c-dm1"/>
+                            <constraint firstItem="fEb-pf-Q9X" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="jpo-1c-dm1"/>
                             <constraint firstItem="fEb-pf-Q9X" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="zIs-SL-EXn"/>
                         </constraints>
                     </view>
